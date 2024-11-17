@@ -7,7 +7,7 @@
 <!-- Title -->
 <h1 align="center"><b>CS526.P11 - Phát triển ứng dụng đa phương tiện trên thiết bị di động</b></h1>
 
-## Bài tập thực hành - xây dựng app calculator
-# Nhóm:
+# Bài tập thực hành - xây dựng app calculator
+## Nhóm:
 * Nguyễn Tấn Phúc - 22521132
 * Trương Phúc Trường - 22521587
